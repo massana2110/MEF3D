@@ -1,3 +1,5 @@
+import classes.enums.sizes;
+
 import java.util.*;
 
 public class GlobalMembers
